@@ -212,6 +212,18 @@ https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- K+#
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/qs8nfynd_k-cine_296_168.webp", K+CINE HD
+http://iptvdtpro.vinaddns.com:8000/Kcine/mpegts
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/8cu1dyf9_k-life_296_168.webp", K+LIFE HD
+http://iptvdtpro.vinaddns.com:8000/Klife/mpegts
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fxxda3tb_k-sport1b118c9aa73fa0dff5b4b412563b03e7f_296_168.webp",K+ Sport 1 HD
+http://iptvdtpro.vinaddns.com:8000/Ksport1/mpegts
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp",K+ Sport 2 HD
+http://iptvdtpro.vinaddns.com:8000/Ksport2/mpegts
 
 
 
