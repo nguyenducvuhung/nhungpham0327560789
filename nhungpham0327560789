@@ -1,6 +1,5 @@
-#EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1 url="http://gg.gg/0327560789"
-
-
+#EXTM3U url-tvg="http://bit.ly/epgphaptx5" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- Giới thiệu#
 
@@ -92,106 +91,127 @@ https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- SCTV#
 
-#EXTINF:-1 tvg-id="sctv1hd"  tvg-logo="https://static.megavie.live/media/sctv1hd.png" tvg-chno="35"   group-title="SCTV" ,SCTV1 HD 
-
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv2hd"  tvg-logo="https://static.megavie.live/media/sctv1hd.png" tvg-chno="36" group-title="SCTV" ,SCTV2 HD
-https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv2/sd1/index.m3u8?md5=4uJKDAWdU9pdIfSzvhQJPQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv3hd"  tvg-logo="https://static.megavie.live/media/sctv3hd.png" tvg-chno="37"  group-title="SCTV" ,SCTV3 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv4hd"  tvg-logo="https://static.megavie.live/media/sctv4hd.png" tvg-chno="38" group-title="SCTV" ,SCTV4 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8?md5=VvFuYftKuNK8bzBSxxbb0g&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv5hd"  tvg-logo="https://i.ibb.co/bLcnbBR/sctv5-auto-x2.jpg" tvg-chno="39" group-title="SCTV" ,SCTV5 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv5/sd1/index.m3u8?md5=WgFj80nCKRlhZ4R9zQoZzg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="https://static.megavie.live/media/sctv6hd.png" tvg-chno="40" group-title="SCTV" ,SCTV6 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv6/sd1/index.m3u8?md5=4SolymWJ8gDfu-b_dR7biA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv7hd"  tvg-logo="https://static.megavie.live/media/sctv7hd.png" tvg-chno="41" group-title="SCTV" ,SCTV7 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv7/sd1/index.m3u8?md5=t2rQwa4sPnnjLhLl96Sgng&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv8hd"  tvg-logo="https://static.megavie.live/media/sctv8hd.png" tvg-chno="42" group-title="SCTV" ,SCTV8 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv8/sd1/index.m3u8?md5=4VmSMUN05v9AhUS7aYe6Ig&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv9hd"  tvg-logo="https://static.megavie.live/media/sctv9hd.png" tvg-chno="43" group-title="SCTV" ,SCTV9 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv9/sd1/index.m3u8?md5=YbHnb-7yJPcp86S-bNWnvA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv10hd"  tvg-logo="https://i.ibb.co/jWjs5kF/sctv5.jpg" tvg-chno="44" group-title="SCTV" ,SCTV10 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv10/sd1/index.m3u8?md5=goeMc3OrV5Un43gP6kDnlw&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv11hd"  tvg-logo="https://static.megavie.live/media/sctv11hd.png" tvg-chno="45" group-title="SCTV" ,SCTV11 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv11/sd1/index.m3u8?md5=i8wrzqxjGV7BQt9piOK5AA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv12hd"  tvg-logo="https://static.megavie.live/media/sctv12hd.png" tvg-chno="46" group-title="SCTV" ,SCTV12 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv12/sd1/index.m3u8?md5=i0L8AAUKtOAHBzsnl8UhlA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv13hd"  tvg-logo="https://static.megavie.live/media/sctv13hd.png" tvg-chno="47" group-title="SCTV" ,SCTV13 HD 
-
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv13/sd1/index.m3u8?md5=GeobYI8uI8LhmTFo-CYFcA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv14hd"  tvg-logo="https://static.megavie.live/media/sctv14hd.png" tvg-chno="48" group-title="SCTV" ,SCTV14 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv14/sd1/index.m3u8?md5=bs-8dgbSHwp63TDXoCpnkw&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv15hd"  tvg-logo="https://static.megavie.live/media/sctv15hd.png"" tvg-chno="49" group-title="SCTV" ,SCTV15 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv16hd"  tvg-logo="https://static.megavie.live/media/sctv16hd.png" tvg-chno="50" group-title="SCTV" ,SCTV16 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv16/sd1/index.m3u8?md5=xVPLXiUpFg73yuaDyEy-2w&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv17hd"  tvg-logo="https://static.megavie.live/media/sctv17hd.png" tvg-chno="51" group-title="SCTV" ,SCTV17 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv17/sd1/index.m3u8?md5=Ta95m8zjauF5U4Ya8NsJvg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv18hd"  tvg-logo="https://static.megavie.live/media/sctv18hd.png" tvg-chno="52" group-title="SCTV" ,SCTV18 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv18/sd1/index.m3u8?md5=LpLRftYMafDSOLR-TKK6Mw&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv19hd"  tvg-logo="https://static.megavie.live/media/sctv19hd.png" tvg-chno="53" group-title="SCTV" ,SCTV19 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv19/sd1/index.m3u8?md5=uMR0F1oSOwIfKPtt7-a4xg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv20hd"  tvg-logo="https://static.megavie.live/media/sctv20hd.png" tvg-chno="54" group-title="SCTV" ,SCTV20 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv20/sd1/index.m3u8?md5=lb0MLr7Ra4oiddBQkWvAug&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv21hd"  tvg-logo="https://static.megavie.live/media/sctv21hd.jpg" tvg-chno="55" group-title="SCTV" ,SCTV21 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv21/sd1/index.m3u8?md5=AxvpNDs0N57nBjln7px0IA&expires=2556118740|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv22hd"  tvg-logo="https://static.megavie.live/media/sctv22hd.png" tvg-chno="56" group-title="SCTV" ,SCTV22 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctvhdpth"  tvg-logo="https://i.ibb.co/TBG2QN5/sctv-phim.png" tvg-chno="57" group-title="SCTV" ,SCTV HD Phim Tổng Hợp
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/67.png", SCTV1 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv1|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/68.png", SCTV2 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv2|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/69.png", SCTV3 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv3|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/70.png", SCTV4 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv4|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/71.png", SCTV5 HD - SCJ
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv5|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/72.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/73.png", SCTV7 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv7|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/74.png", SCTV8 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/75.png", SCTV9 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv9|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/76.png", SCTV10
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv10|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/77.png", SCTV11 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv11|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/78.png", SCTV12 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv12|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/79.png", SCTV13 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv13|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/80.png", SCTV14 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv14|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/81.png", SCTV15 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv15|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/82.png", SCTV16 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv16|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/83.png", SCTV17 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv17|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/84.png", SCTV18 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv18|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/85.png", SCTV19 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv19|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/86.png", SCTV20 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv20|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/87.png", SCTV21 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv21|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/88.png", SCTV22 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv22|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/239.png", SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctvpth|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="btv5hd" group-title="💚| SCTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/238.png", BTV5 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/btv5|Referer=http://sctvonline.vn/
 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTVCAP#
 
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
-http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=tivi&kenh=vie-giai-tri-hd
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/13.png", VTVcab 2 - On Phim Việt
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab2|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/14.png", VTVcab 3 - On Sports
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab3|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/16.png", VTVcab 4
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab4|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/17.png", VTVcab 5 - E Channel
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab5|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/18.png", VTVcab 6 - On Sports +
-http://vthanh.me/getlink2021/tivi.php?ott=vtvgo&id=196
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab7|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/20.png", VTVcab 8 - BiBi
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/21.png", VTVcab 9 - Info TV
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab9|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/22.png", VTVcab 10 - On Cine
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab10|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/23.png", VTVcab 12 - Style TV
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab12|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/24.png", VTVcab 15
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab15|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/26.png", VTVcab 16 - On Football
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab16|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/27.png", VTVcab 17 - Yeah1TV
-http://vthanh.me/getlink2021/tivi.php?ott=vtvgo&id=195
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/29.png", VTVcab 19 - Vie Dramas
-http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=tivi&kenh=vie-dramas-hd
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/30.png", VTVcab 20 - VFamily
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab20|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/12.png", VTVcab 1 - Vie Giải trí HD
+https://api.vthanhtivii.xyz/v1/getlink/vieon/vie-giai-tri-hd
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/13.png", ON Phim Việt
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab2|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/15.png", ON Sports
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab3|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/16.png", VTVcab 4
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab4|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/17.png", VTVcab 5 - E Channel
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab5|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/18.png", ON Sports+
+https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab7|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/20.png", VTVcab 8 - BiBi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/21.png", VTVcab 9 - Info TV
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab9|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/22.png", ON Cine
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab10|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/23.png", VTVcab 12 - Style TV
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab12|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/24.png", VTVcab 15
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab15|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/26.png", ON Football HD
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab16|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/27.png", VTVcab 17 - Yeah1TV
+https://api.vthanhtivii.xyz/v1/getlink/vtvgo/195
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/29.png", VTVcab 19 - Vie Dramas
+https://api.vthanhtivii.xyz/v1/getlink/vieon/vie-dramas-hd
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/30.png", VTVcab 20 - VFamily
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab20|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/31.png", VTVcab 21 - Cartoon Kids
+http://cdn.vthanhtivi.xyz:8080/cab21/mpegts
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/32.png", VTVcab 22 - Life TV
+http://cdn.vthanhtivi.xyz:9981/stream/channelid/1151829575?profile=pass
 
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/15.png", ON Sports HD
+http://cdn.socolacdn.online/onsporttv/mpegts
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/26.png", ON Football FHD
+http://cdn.socolacdn.online/onfootball-HD/mpegts
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/28.png", ON Sports News
+http://cdn.vthanhtivi.xyz:9981/stream/channelid/1479162811?profile=pass
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/33.png", ON Golf
+http://cdn.vthanhtivi.xyz:9981/stream/channelid/1271453011?profile=pass
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- HTVC#
 
@@ -218,14 +238,29 @@ https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- K+#
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
-http://cdnspt.vthanh.xyz/kcine/mpegts
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
+http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD
-http://cdnspt.vthanh.xyz/klife/mpegts
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
+http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD
-http://cdnspt.vthanh.xyz/ksport1/mpegts
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy 
+http://s71229.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
-#https://cdnspt.vthanh.xyz/AOLive/mpegts
-http://cdnspt.vthanh.xyz/ksport2/mpegts
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
+http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KKIDS.png", K+KIDS HD
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- Kênh Địa Phương#
@@ -436,184 +471,7 @@ http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- KÊNH BEIN + SPORT #
 
-
-#EXTINF:0 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png",  Bein Sports Xtra N
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports Xtra1
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/115180.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports Xtra2
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/115182.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports 1 Premium
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90284.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports 2 Premium
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90283.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports 3 Premium
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90282.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports 1 Premium FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/74855.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 Premium FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/74856.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 3 Premium FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/74857.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90292.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90291.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 3
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90290.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 4
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90289.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 5
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90288.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 6
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90287.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 7
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90286.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
-http://bestsave.ltd:2052/live/55667788/88776655/38577.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38578.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 3 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38579.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 4 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38580.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 5 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38581.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 6 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38582.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 7 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38583.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1 English FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90309.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 English FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90308.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 3 English FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90307.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1 English
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90273.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 English
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90273.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 3 English
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90271.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1 French
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90270.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 French
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90269.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1 French FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
-http://bestsave.ltd:2052/live/55667788/88776655/74858.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 French FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
-http://bestsave.ltd:2052/live/55667788/88776655/74858.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports News
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/16001.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports NBA
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90311.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports NBA FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/31617.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Movie 1
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/2058.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Movie 2
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/2061.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Movie 3
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/67727.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Movie 4
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/67728.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Series 1
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/2062.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Series 2
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/2063.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Drama 1
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/2064.ts
 
 
 
